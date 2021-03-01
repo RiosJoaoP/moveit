@@ -18,7 +18,6 @@
  <li><a href="#overview">Overview</a></li>
  <li><a href="#tecnologias">Tecnologias</a></li>
  <li><a href="#executando">Executando o projeto</a></li>
- <li><a href="#autor">Autor</a></li>
 </ul>
 
 <h2 id="objetivo">🎯 Objetivo</h2>
