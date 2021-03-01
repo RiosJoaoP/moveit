@@ -1,7 +1,5 @@
 <h1 align="center">
-    <a 
-    href="https://moveit-umber-zeta.vercel.app/" style="text-decoration: none"
-><img 
+<img 
     src="./public/favicon.png" 
     style="width: 30px"/> 
     move.it
@@ -11,6 +9,17 @@
 
 <p align="center">🚀 Aplicativo para organização de tempo em ciclos através de um gamification.</p>
 
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JohnRios/moveit?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/JohnRios/moveit">
+  
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JohnRios/moveit">
+
+  <img alt="Node version" src="https://img.shields.io/badge/node.js-v14.15.15-blue">
+  
+</p>
+
 <h2>💎 Conteúdo</h2>
 
 <ul>
@@ -18,7 +27,6 @@
  <li><a href="#overview">Overview</a></li>
  <li><a href="#tecnologias">Tecnologias</a></li>
  <li><a href="#executando">Executando o projeto</a></li>
- <li><a href="#autor">Autor</a></li>
 </ul>
 
 <h2 id="objetivo">🎯 Objetivo</h2>
