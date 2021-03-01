@@ -9,6 +9,8 @@
 
 <p align="center">🚀 Aplicativo para organização de tempo em ciclos através de um gamification.</p>
 
+<p align="center"> <a href="https://moveit-umber-zeta.vercel.app/" style="text-decoration: none">Link para o projeto hospedado pela Vercel</a></p>
+
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JohnRios/moveit?color=%2304D361">
 
